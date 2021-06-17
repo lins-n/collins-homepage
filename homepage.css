@@ -1,0 +1,12 @@
+
+.quote {
+  margin: 0;
+  background: #eee;
+  padding: 1em;
+  border-radius: 1em;
+  opacity: 70%;
+}
+.quote figcaption,
+.quote blockquote {
+  margin: 1em;
+}
